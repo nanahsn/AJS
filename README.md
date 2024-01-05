@@ -1,1 +1,1 @@
-# AJS
+# Analisis Jejaring Sosial
